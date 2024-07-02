@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Buttermilk;
+    src: url(./buttermilk\ -\ Copy.zip);
+}
+
 body {
     font-family: Arial, sans-serif;
     background-color:burlywood;
@@ -14,4 +19,11 @@ p {
     color: #666;
     font-size: 16px;
     line-height: 1.6;
+}
+
+.img{
+    
+    object-fit: cover;
+    height: 200px;
+    width: 200px;
 }
